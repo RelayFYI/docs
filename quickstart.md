@@ -15,8 +15,8 @@ Relay is deployed as a Slack app on your team's workspace.
 
 # Adding Relay to Channels
 1. Go to the App Home by either clicking the link in your DM or clicking on Relay Channel Manager and then the home tab.
-    a. You can also add Relay to multiple channels at once from the Channels and Insights tab.
-    b. It's also possible to invite Relay directly to channels. Type "/invite @Relay" and select the appropriate option.
+* You can also add Relay to multiple channels at once from the Channels and Insights tab.
+* It's also possible to invite Relay directly to channels. Type "/invite @Relay" and select the appropriate option.
 
 2. Once Relay has been added to the channels you'd like to monitor, the backfill will begin automatically and customer items should begin populating your Inbox.
 

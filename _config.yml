@@ -4,6 +4,7 @@ theme: just-the-docs
 
 # url: "https://docs.relay.fyi"
 url: "https://relayfyi.github.io/docs"
+logo: "/assets/images/relay.png"
 
 aux_links:
   Add to Slack: https://app.relay.fyi/slack/install
