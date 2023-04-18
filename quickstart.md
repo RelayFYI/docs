@@ -12,7 +12,7 @@ Relay is deployed as a Slack app on your team's workspace.
 1. Click on the Install button at the top of the page, or [here](https://app.relay.fyi/slack/install)
 2. Complete the OAuth flow to add Relay Channel Manager to your workspace.
 
-![test](../assets/images/relay.png){:class="img-responsive"}
+![test](../assets/images/add_relay_to_slack.png){:class="img-responsive"}
 
 3. Accept the redirect and you should land into a DM with Relay Channel Manager
 
